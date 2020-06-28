@@ -26,6 +26,15 @@ body{
      float: right;
      margin-right: 40px;
  }
-.second p{
-text-align: center;
+ .second p{
+     margin: 60px auto;
+     text-align: center;
+     padding: 5px;
+     font-family: cursive;
+     font-size: 25px;
+     font-weight: bold;
+    }
+    #para {
+        text-align: center;
+        font-size:50px;
 }
